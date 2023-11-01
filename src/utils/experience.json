@@ -1,0 +1,33 @@
+[
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Optus",
+    "startDate": "Nov, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked in the Networks Team"],
+    "imageSrc": "history/optus.png"
+  },
+  {
+    "role": "Full Stack Developer/Cloud Engineer",
+    "organisation": "The NRMA",
+    "startDate": "May, 2023",
+    "endDate": "Nov, 2023",
+    "experiences": [
+      "Redesigned and built full-stack invoicing app called Nexus",
+      "Automated deployment of Nexus through Docker and Jenkins pipeline",
+      "Recorded a 96% satisfaction across 1000 roadside operators around NSW"
+    ],
+    "imageSrc": "history/nrma.png"
+  },
+  {
+    "role": "Assurance Intern",
+    "organisation": "EY",
+    "startDate": "Jan, 2023",
+    "endDate": "Feb, 2023",
+    "experiences": [
+      "Worked in corporate environment",
+      "Met tight deadlines during busy audit season"
+    ],
+    "imageSrc": "history/ey.png"
+  }
+]

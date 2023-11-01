@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Nexus",
+    "imageSrc": "projects/nexus.png",
+    "description": "Internal Full-Stack Invoicing Application for NRMA",
+    "skills": ["React", "Node", "Oracle", "Azure", "Jenkins", "Datadog"]
+  },
+  {
+    "title": "CampUs",
+    "imageSrc": "projects/campus.png",
+    "description": "A social media application to help university students find study buddies",
+    "skills": ["React", "NextJS", "Node", "MongoDB"],
+    "source": "https://github.com/alexlai18/CampUs"
+  },
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/personal.png",
+    "description": "This is the website that you're on!",
+    "skills": ["React", "Vite", "Node", "HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
