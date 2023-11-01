@@ -17,7 +17,7 @@
     "imageSrc": "projects/personal.png",
     "description": "This is the website that you're on!",
     "skills": ["React", "Vite", "Node", "HTML", "CSS"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://alexanderlai.netlify.app/",
+    "source": "https://github.com/alexlai18/portfolio"
   }
 ]
