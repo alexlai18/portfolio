@@ -2,20 +2,21 @@
   {
     "title": "Nexus",
     "imageSrc": "projects/nexus.png",
-    "description": "Internal Full-Stack Invoicing Application for NRMA",
+    "description": "Internal Full-Stack Invoicing Application for NRMA. Deployed on Microsoft Azure.",
     "skills": ["React", "Node", "Oracle", "Azure", "Jenkins", "Datadog"]
   },
   {
     "title": "CampUs",
     "imageSrc": "projects/campus.png",
-    "description": "A social media application to help university students find study buddies",
+    "description": "A social media application to help university students find study buddies. Deployed on Vercel.",
     "skills": ["React", "NextJS", "Node", "MongoDB"],
+    "demo": "https://campus-psi.vercel.app",
     "source": "https://github.com/alexlai18/CampUs"
   },
   {
     "title": "Portfolio Website",
     "imageSrc": "projects/personal.png",
-    "description": "This is the website that you're on!",
+    "description": "This is the website that you're on! Deployed on Netlify.",
     "skills": ["React", "Vite", "Node", "HTML", "CSS"],
     "demo": "https://alexanderlai.netlify.app/",
     "source": "https://github.com/alexlai18/portfolio"
