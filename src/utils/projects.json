@@ -9,7 +9,7 @@
     "title": "CampUs",
     "imageSrc": "projects/campus.png",
     "description": "A social media application to help university students find study buddies. Deployed on Vercel.",
-    "skills": ["React", "NextJS", "Node", "MongoDB"],
+    "skills": ["React", "NextJS", "NodeJS", "ExpressJS", "MongoDB"],
     "demo": "https://campus-psi.vercel.app",
     "source": "https://github.com/alexlai18/CampUs"
   },

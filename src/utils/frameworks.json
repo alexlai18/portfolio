@@ -24,6 +24,10 @@
     "imageSrc": "skills/node.png"
   },
   {
+    "title": "Express",
+    "imageSrc": "skills/express.png"
+  },
+  {
     "title": "OracleDB",
     "imageSrc": "skills/oracle.png"
   },
