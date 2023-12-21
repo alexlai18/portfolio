@@ -54,5 +54,18 @@
   {
     "title": "Datadog",
     "imageSrc": "skills/datadog.png"
+  },
+  {
+    "title": "Kubernetes",
+    "imageSrc": "skills/kubernetes.png"
+  }, {
+    "title": "Harbor",
+    "imageSrc": "skills/harbor.png"
+  }, {
+    "title": "Rancher",
+    "imageSrc": "skills/rancher.png"
+  }, {
+    "title": "Gitlab",
+    "imageSrc": "skills/gitlab.png"
   }
 ]

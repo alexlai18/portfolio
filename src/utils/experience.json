@@ -4,7 +4,11 @@
     "organisation": "Optus",
     "startDate": "Nov, 2023",
     "endDate": "Present",
-    "experiences": ["Worked in the Networks Team"],
+    "experiences": [
+      "Automated and streamlined telecom testing processes, designing and creating a Testing as a Service (TaaS) platform",
+      "Collaborated within a larger DevOps and Automation team, troubleshooting and fixing Kubernetes nodes and network issues",
+      "Liaised with stakeholders and performed requirements gathering to understand the wider user vision"
+    ],
     "imageSrc": "history/optus.png"
   },
   {

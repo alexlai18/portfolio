@@ -94,10 +94,10 @@
 
 .experienceInfo ul {
   margin-top: 6px;
-  list-style-position: inside;
+  list-style-position: outside;
   font-size: 25px;
   list-style-type: disc;
-  margin-left: 17px;
+  margin-left: 1em;
 }
 
 @media screen and (max-width: 830px) {
